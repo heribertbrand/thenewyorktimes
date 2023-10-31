@@ -35,10 +35,10 @@ body {
 }
 
 .box1 .imghold:hover {
-  background-color: rgba(209, 209, 209, 0.532);
+  background-color: #d1d1d188;
   border: 1px solid #fff;
   border-radius: 4px;
-  transition: 0.5s #fff;
+  transition: 0.5 #fff;
 }
 
 .box2 {
@@ -64,10 +64,10 @@ body {
 }
 
 .box2 a:hover {
-  background-color: rgba(209, 209, 209, 0.4);
+  background-color: #d1d1d166;
   border: 1px solid #fff;
   border-radius: 4px;
-  transition: 0.5s #fff;
+  transition: 0.5 #fff;
 }
 
 .box3 {
@@ -79,7 +79,7 @@ body {
 }
 
 .span1 {
-  background-color: rgb(94, 94, 124);
+  background-color: #5e5e7c;
   color: #fff;
   font-size: 12px;
   padding: 5px 8px;
