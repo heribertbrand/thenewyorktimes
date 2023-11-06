@@ -64,6 +64,17 @@ body {
   padding: 8px;
 }
 
+a:hover {
+  color: #0005;
+}
+
+.about a {
+  font-size: 11px;
+  padding: 10px 0;
+  text-decoration: none;
+  color: #0009;
+}
+
 .box3 {
   display: flex;
   align-items: center;
@@ -2448,15 +2459,4 @@ footer {
   flex-flow: row;
   padding: 15px 0;
   width: 100%;
-}
-
-.about a {
-  font-size: 11px;
-  padding: 10px 0;
-  text-decoration: none;
-  color: #0009;
-}
-
-a:hover {
-  color: #0005;
 }
