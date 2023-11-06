@@ -154,6 +154,12 @@ body {
   padding-right: 20px;
 }
 
+.info a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #000;
+}
+
 .listholder1 ul {
   display: flex;
   align-items: end;
@@ -252,12 +258,6 @@ hr {
   width: 25vw;
 }
 
-.info a {
-  text-decoration: none;
-  font-size: 18px;
-  color: #000;
-}
-
 .info1 {
   display: flex;
   align-items: flex-start;
@@ -325,10 +325,6 @@ hr {
   color: #fff;
   padding: 0 5px;
 }
-
-/* 
-INFO 2 - INFO - SUB BLOCK 1
-*/
 
 .info2 {
   display: flex;
