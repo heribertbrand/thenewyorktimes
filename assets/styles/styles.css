@@ -189,12 +189,6 @@ body a:hover {
   list-style: none;
 }
 
-.listholder1 ul a {
-  text-decoration: none;
-  color: #000;
-  font-size: 13px;
-}
-
 .listholder2 {
   display: flex;
   align-items: start;
@@ -213,12 +207,6 @@ body a:hover {
   gap: 1.5rem;
   padding: 5px;
   list-style: none;
-}
-
-.listholder2 ul a {
-  text-decoration: none;
-  color: #000;
-  font-size: 13px;
 }
 
 .box2 a:hover {
@@ -2410,6 +2398,12 @@ footer {
   color: #000000b3;
 }
 
+.listholder1 ul a {
+  text-decoration: none;
+  color: #000;
+  font-size: 13px;
+}
+
 .linkks .link-down {
   display: flex;
   align-items: flex-start;
@@ -2427,6 +2421,12 @@ footer {
   text-decoration: none;
   color: #000000b3;
   gap: 1rem;
+}
+
+.listholder2 ul a {
+  text-decoration: none;
+  color: #000;
+  font-size: 13px;
 }
 
 .about {
