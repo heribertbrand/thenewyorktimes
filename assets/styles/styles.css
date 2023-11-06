@@ -64,15 +64,27 @@ body {
   padding: 8px;
 }
 
-body a:hover {
-  color: #0005;
-}
-
 .about a {
   font-size: 11px;
   padding: 10px 0;
   text-decoration: none;
   color: #0009;
+}
+
+.info a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #000;
+}
+
+.link1 a {
+  text-decoration: none;
+  color: #000000f1;
+  font-size: 13.5px;
+}
+
+body a:hover {
+  color: #0005;
 }
 
 .box3 {
@@ -163,12 +175,6 @@ body a:hover {
   flex-flow: row;
   border-right: #adadb72f ridge;
   padding-right: 20px;
-}
-
-.info a {
-  text-decoration: none;
-  font-size: 18px;
-  color: #000;
 }
 
 .listholder1 ul {
@@ -298,13 +304,12 @@ hr {
   font-size: 12px;
 }
 
-.info1 h2 a {
+/* .info1 h2 a {
   text-decoration: none;
   color: #000;
   font-size: 21px;
   padding: 3px 0;
-}
-
+} */
 .info1 span {
   padding: 5px 0;
   color: #000000c8;
@@ -316,12 +321,6 @@ hr {
   justify-content: flex-start;
   flex-flow: row;
   gap: 0.5em;
-}
-
-.link1 a {
-  text-decoration: none;
-  color: #000000f1;
-  font-size: 13.5px;
 }
 
 .link1 span {
@@ -777,7 +776,8 @@ button img {
   align-items: flex-start;
   justify-content: flex-start;
   flex-flow: row;
-  gap: 1rem;
+  width: 100%;
+  gap: 2rem;
 }
 
 .sub2-link {
