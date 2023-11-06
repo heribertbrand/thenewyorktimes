@@ -2195,9 +2195,6 @@ button img {
   flex-flow: column;
   padding: 35px 0;
   width: 100%;
-
-  /* background-color: #5e5e7c; */
-
 }
 
 .hed {
@@ -2217,9 +2214,7 @@ button img {
   border-bottom: ridge #00000053 1px;
   gap: 1rem;
   width: 100%;
-
-  /* background-color: yellow; */
-
+  /* margin: 0 auto; */
   padding: 10px 0;
 }
 
@@ -2229,9 +2224,9 @@ button img {
   justify-content: space-between;
   flex-flow: row;
   border-right: ridge #00000053 1px;
-
-  /* width: 19vw; */
-
+  /* background-color: #5e5e7c; */
+  width: 100%;
+  /* margin: 0 auto; */
 }
 
 .game-description  {
@@ -2265,8 +2260,6 @@ button img {
   gap: 0.5rem;
   width: 100%;
   padding: 40px 0;
-
-  /* background-color: #5e5e7c; */
 }
 
 .containerr h3 {
@@ -2277,9 +2270,6 @@ button img {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: 30vw;
-
-  /* background-color: #a20707; */
-
   row-gap: -1rem;
   column-gap: 0.5rem;
 }
@@ -2289,16 +2279,9 @@ button img {
   align-items: flex-start;
   justify-content: left;
   flex-flow: column;
-
-  /* padding: 15px; */
-
   gap: 1rem;
   margin-bottom: 20px;
   padding-bottom: 20px;
-
-  /* line-height: normal; */
-
-  /* background-color: #5e5e7c; */
 }
 
 .articles h4 {
@@ -2324,11 +2307,6 @@ footer {
   align-items: flex-start;
   justify-content: left;
   flex-flow: column;
-
-  /* background-color: #a20707; */
-
-  /* margin-top: 50px; */
-
   padding: 40px 0;
   gap: 1rem;
 }
@@ -2338,9 +2316,6 @@ footer {
   align-items: flex-start;
   justify-content: left;
   flex-flow: column;
-
-  /* background-color: #a20707; */
-
   width: 100%;
   padding: 20px 0 0;
 }
