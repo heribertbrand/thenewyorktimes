@@ -604,11 +604,6 @@ button img {
   justify-content: left;
   flex-flow: row;
   gap: 1rem;
-
-  /* background-color: #5e5e7c; */
-
-  /* padding: 10px 0; */
-
 }
 
 #biga {
@@ -617,9 +612,15 @@ button img {
   justify-content: flex-start;
   font-size: 14px;
   color: #000;
+  padding-bottom: 8px;
+}
 
-  /* background-color: #a20707;  */
-
+#biqa {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 14px;
+  color: #000;
   padding-bottom: 8px;
 }
 
@@ -1503,8 +1504,6 @@ button img {
   width: 6vw;
 }
 
-/* CONTAINER - 2 BEGINS */
-
 .container2 {
   display: flex;
   align-items: left;
@@ -1516,9 +1515,6 @@ button img {
   padding: 20px 0;
   width: inherit;
   margin-top: 10px;
-
-  /* background-color: #5e5e7c; */
-
 }
 
 .container2 span {
@@ -1597,12 +1593,12 @@ button img {
 }
 
 .container2-image {
- display: flex;
- align-items: center;
- justify-content: center;
- flex-flow: column;
- gap: 0.5rem;
- padding-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  gap: 0.5rem;
+  padding-right: 10px;
 }
 
 .container2-image img {
@@ -1687,9 +1683,6 @@ button img {
   justify-content: space-between;
   flex-flow: row;
   gap: 0.5rem;
-
-  /* background-color: aquamarine; */
-
 }
 
 .health-links {
@@ -1698,18 +1691,12 @@ button img {
   justify-content: left;
   flex-flow: column;
   width: 15vw;
-
-  /* background-color: thistle; */
-
   gap: 1rem;
 }
 
 .linktag a {
   text-decoration: none;
   color: #000000e5;
-
-  /* align-self: fle; */
-
   font-size: 14px;
 }
 
@@ -1752,7 +1739,6 @@ button img {
   align-items: left;
   justify-content: left;
   flex-flow: column;
-  /* border-top: ridge; */
   border-bottom: ridge #0005 1px;
   gap: 0.5rem;
   padding: 10px 0;
@@ -1768,11 +1754,6 @@ button img {
   align-items: flex-start;
   justify-content: left;
   flex-flow: row;
-
-  /* background-color: #5e5e7c; */
-
-  /* border-right: ridge; */
-
   padding-bottom: 10px;
 }
 
@@ -1781,9 +1762,6 @@ button img {
   align-items: flex-start;
   justify-content: left;
   flex-flow: column;
-
-  /* width: 30vw; */
-
   border-right: ridge #0005 1px;
   gap: 1rem;
   padding-right: 5px;
@@ -1796,9 +1774,6 @@ button img {
   flex-flow: column;
   width: 100%;
   gap: 0.5rem;
-  
-  /* background-color: #a20707; */
-
 }
 
 .left-items-image img {
@@ -1806,9 +1781,6 @@ button img {
 }
 
 .left-items-image span {
-
-  /* display: flex; */
-
   align-self: flex-end; 
   font-size: 12px;
   color: #000000ce;
@@ -1845,11 +1817,6 @@ button img {
   width: 28vw;
   gap: 1rem;
   padding: 0 0 100px 10px;
-
-  /* margin-top: -60px; */
-
-  /* background-color: #5e5e7c; */
-
 }
 
 .right-items-row1 {
@@ -1858,13 +1825,7 @@ button img {
   justify-content: center;
   flex-flow: row;
   border-bottom: ridge #0005 1px;
-
-  /* background-color: #5e5e7c; */
-
   padding: 0 0 20px 0;
-
-  /* margin-top: -70px; */
-
 }
 
 .row1-left {
@@ -1876,11 +1837,6 @@ button img {
   padding: 5px;
   width: 14vw;
   border-right: ridge #0005 1px;
-
-  /* padding: 10px; */
-
-  /* background-color: #5e5e7c; */
-
 }
 
 .row1-left img {
@@ -1910,9 +1866,6 @@ button img {
   flex-flow: column;
   gap: 0.5rem;
   padding: 0 5px;
-
-  /* width: 14vw; */
-
 }
 
 .row1-right img {
@@ -1951,15 +1904,9 @@ button img {
   justify-content: left;
   flex-flow: column;
   gap: 0.5rem;
-
-  /* padding: 5px; */
-
   width: 14vw;
   border-right: ridge #0005 1px;
   padding: 10px 0;
-
-  /* background-color: #5e5e7c; */
-
 }
 
 .row2-left img {
