@@ -1617,10 +1617,6 @@ button img {
   font-size: 10px;
 }
 
-.food-image {
-  font-size: 14px;
-}
-
 .linktag span {
   font-size: 10px;
   align-self: flex-start;
@@ -1827,7 +1823,6 @@ button img {
   justify-content: left;
   flex-flow: column;
   gap: 0.5rem;
-  padding: 5px;
   width: 14vw;
   padding: 10px;
 }
@@ -2004,15 +1999,6 @@ button img {
   border-bottom: ridge #0009 1px;
   padding: 25px 0;
   width: 100%;
-}
-
-.hedda {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-flow: row;
-  width: 14vw;
-  font-size: 15px;
 }
 
 .food-holder {
