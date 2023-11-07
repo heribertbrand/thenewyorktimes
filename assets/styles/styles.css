@@ -2283,6 +2283,12 @@ footer {
   gap: 1rem;
 }
 
+.listholder1 ul a {
+  text-decoration: none;
+  color: #000;
+  font-size: 13px;
+}
+
 .linkks .link-down {
   display: flex;
   align-items: flex-start;
@@ -2314,12 +2320,6 @@ body a:hover {
   border: 1px solid #fff;
   border-radius: 4px;
   transition: 0.5 #fff;
-}
-
-.listholder1 ul a {
-  text-decoration: none;
-  color: #000;
-  font-size: 13px;
 }
 
 .listholder2 ul a {
