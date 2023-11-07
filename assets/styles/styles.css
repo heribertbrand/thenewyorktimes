@@ -2283,12 +2283,6 @@ footer {
   gap: 1rem;
 }
 
-.listholder1 ul a {
-  text-decoration: none;
-  color: #000;
-  font-size: 13px;
-}
-
 .linkks .link-down {
   display: flex;
   align-items: flex-start;
@@ -2311,10 +2305,8 @@ footer {
   width: 100%;
 }
 
-.listholder2 ul a {
-  text-decoration: none;
-  color: #000;
-  font-size: 13px;
+body a:hover {
+  color: #0005;
 }
 
 .box2 a:hover {
@@ -2324,6 +2316,14 @@ footer {
   transition: 0.5 #fff;
 }
 
-body a:hover {
-  color: #0005;
+.listholder1 ul a {
+  text-decoration: none;
+  color: #000;
+  font-size: 13px;
+}
+
+.listholder2 ul a {
+  text-decoration: none;
+  color: #000;
+  font-size: 13px;
 }
