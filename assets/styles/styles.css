@@ -19,7 +19,6 @@ body {
   flex-wrap: wrap;
 }
 
-
 .box1 {
   display: flex;
   gap: 1.5rem;
@@ -354,7 +353,7 @@ hr {
   justify-content: flex-start;
   flex-flow: column;
   gap: 0.5em;
-  padding: 5px 5px 15px 0px;
+  padding: 5px 5px 15px 0;
 }
 
 .info2 p {
@@ -390,10 +389,6 @@ video {
   width: 27.3vw;
   height: 45vh;
 }
-
-/* 
-SECOND SUB BLOCK - BLOCK 1
-*/
 
 .sub2 {
   display: flex;
@@ -487,7 +482,7 @@ button img {
 
 .link3 a {
   text-decoration: none;
-  color: #000000dd;
+  color: #000d;
 }
 
 .link3 span {
@@ -575,7 +570,6 @@ button img {
   text-decoration: none;
   color: #0009;
   font-size: 13px;
-
   padding: 5px 0;
 }
 
@@ -985,7 +979,6 @@ button img {
 
 .block9-link1 p {
   font-size: 10px;
-
 }
 
 .block9-link2 {
@@ -1027,13 +1020,11 @@ button img {
   width: 35vw;
 }
 
-.block9-img span{
+.block9-img span {
   align-self: flex-end;
   font-size: 10px;
   color: #0009;
 }
-
-/* LEFT COLUMN - CONTAINER 1*/
 
 .side1 {
   display: flex;
