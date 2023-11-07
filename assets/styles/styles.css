@@ -124,10 +124,6 @@ span a {
   color: #000000b3;
 }
 
-body a:hover {
-  color: #0005;
-}
-
 .box3 {
   display: flex;
   align-items: center;
@@ -2003,7 +1999,7 @@ button img {
   font-size: 14px;
   border-bottom: ridge #0009 1px;
   padding: 10px;
-}6
+}
 
 .container6 {
   display: flex;
@@ -2326,4 +2322,8 @@ footer {
   border: 1px solid #fff;
   border-radius: 4px;
   transition: 0.5 #fff;
+}
+
+body a:hover {
+  color: #0005;
 }
