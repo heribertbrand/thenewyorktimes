@@ -2230,12 +2230,6 @@ footer {
   gap: 0.5rem;
 }
 
-.links ul li a {
-  text-decoration: none;
-  color: #000000b3;
-  font-size: 14px;
-}
-
 .linkks {
   display: flex;
   align-items: flex-start;
@@ -2315,6 +2309,12 @@ body a:hover {
   color: #0005;
 }
 
+.listholder2 ul a {
+  text-decoration: none;
+  color: #000;
+  font-size: 13px;
+}
+
 .box2 a:hover {
   background-color: #d1d1d166;
   border: 1px solid #fff;
@@ -2322,8 +2322,8 @@ body a:hover {
   transition: 0.5 #fff;
 }
 
-.listholder2 ul a {
+.links ul li a {
   text-decoration: none;
-  color: #000;
-  font-size: 13px;
+  color: #000000b3;
+  font-size: 14px;
 }
