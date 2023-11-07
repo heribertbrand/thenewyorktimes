@@ -239,6 +239,12 @@ body a:hover {
   list-style: none;
 }
 
+.listholder2 ul a {
+  text-decoration: none;
+  color: #000;
+  font-size: 13px;
+}
+
 .box2 a:hover {
   background-color: #d1d1d166;
   border: 1px solid #fff;
@@ -1999,7 +2005,7 @@ button img {
   font-size: 14px;
   border-bottom: ridge #0009 1px;
   padding: 10px;
-}
+}6
 
 .container6 {
   display: flex;
@@ -2103,7 +2109,7 @@ button img {
   padding-right: 15px;
 }
 
-.game-description  {
+.game-description {
   display: flex;
   align-items: flex-start;
   justify-content: left;
@@ -2311,12 +2317,6 @@ footer {
   text-decoration: none;
   color: #000000b3;
   gap: 1rem;
-}
-
-.listholder2 ul a {
-  text-decoration: none;
-  color: #000;
-  font-size: 13px;
 }
 
 .about {
